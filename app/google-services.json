@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142645079961",
+    "project_id": "cloud-computing-9d627",
+    "storage_bucket": "cloud-computing-9d627.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142645079961:android:91709ce93e4be2ec062d08",
+        "android_client_info": {
+          "package_name": "com.example.analyticapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142645079961-itgotkh1hmgqg96fhl3aa6nbo4fr1jo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_fl8A-N0BgY5CQlkk93WF8M8ykRgsPag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142645079961-itgotkh1hmgqg96fhl3aa6nbo4fr1jo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
